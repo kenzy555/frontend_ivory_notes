@@ -3,3 +3,4 @@ Git commands i have learned so far:
 2. git add command is used to track or stage any changes made
 3. git commit -m saves or takes a snapshot of your work or 
 4. git status lets the user know any unstaged changes on the branch brfore committing
+5. git log shows your commit history of the project
