@@ -4,3 +4,4 @@ Git commands i have learned so far:
 3. git commit -m saves or takes a snapshot of your work or 
 4. git status lets the user know any unstaged changes on the branch brfore committing
 5. git log shows your commit history of the project
+6. git show displays contents of your commits in the terminal
