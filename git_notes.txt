@@ -6,3 +6,4 @@ Git commands i have learned so far:
 5. git log shows your commit history of the project
 6. git show displays contents of your commits in the terminal
 7. git checkout displays content of a commit in the vscode terminal
+8. git switch and commit hash used to move or switch to a specific commit
