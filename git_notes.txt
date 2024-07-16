@@ -5,3 +5,4 @@ Git commands i have learned so far:
 4. git status lets the user know any unstaged changes on the branch brfore committing
 5. git log shows your commit history of the project
 6. git show displays contents of your commits in the terminal
+7. git checkout displays content of a commit in the vscode terminal
